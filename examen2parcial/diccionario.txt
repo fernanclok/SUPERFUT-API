@@ -1,0 +1,205 @@
+Mexico-Mexico
+Estados Unidos-United States
+Canadá-Canada
+Guatemala-Guatemala
+Belice-Belize
+Honduras-Honduras
+El Salvador-El Salvador
+Nicaragua-Nicaragua
+Costa Rica-Costa Rica
+Panamá-Panama
+Cuba-Cuba
+República Dominicana-Dominican Republic
+Puerto Rico-Puerto Rico
+Haití-Haiti
+Jamaica-Jamaica
+Trinidad y Tobago-Trinidad and Tobago
+Bahamas-Bahamas
+Barbados-Barbados
+San Cristóbal y Nieves-Saint Kitts and Nevis
+Santa Lucía-Saint Lucia
+San Vicente y las Granadinas-Saint Vincent and the Grenadines
+Antigua y Barbuda-Antigua and Barbuda
+Dominica-Dominica
+Colombia-Colombia
+Venezuela-Venezuela
+Ecuador-Ecuador
+Peru-Peru
+Bolivia-Bolivia
+Chile-Chile
+Argentina-Argentina
+Uruguay-Uruguay
+Paraguay-Paraguay
+Brasil-Brazil
+Guyana-Guyana
+Surinam-Suriname
+Guayana Francesa-French Guiana
+Portugal-Portugal
+España-Spain
+Francia-France
+Reino Unido-United Kingdom
+Irlanda-Ireland
+Alemania-Germany
+Austria-Austria
+Suiza-Switzerland
+Italia-Italy
+Grecia-Greece
+Turquía-Turkey
+Rusia-Russia
+Ucrania-Ukraine
+Bielorrusia-Belarus
+Polonia-Poland
+República Checa-Czech Republic
+Eslovaquia-Slovakia
+Hungría-Hungary
+Rumanía-Romania
+Bulgaria-Bulgaria
+Serbia-Serbia
+Croacia-Croatia
+Bosnia y Herzegovina-Bosnia and Herzegovina
+Montenegro-Montenegro
+Macedonia del Norte-North Macedonia
+Eslovenia-Slovenia
+Albania-Albania
+Kosovo-Kosovo
+Noruega-Norway
+Suecia-Sweden
+Finlandia-Finland
+Dinamarca-Denmark
+Islandia-Iceland
+Países Bajos/Holanda-Netherlands
+Bélgica-Belgium
+Luxemburgo-Luxembourg
+Irán-Iran
+Irak-Iraq
+Arabia Saudita-Saudi Arabia
+Kuwait-Kuwait
+Emiratos Árabes Unidos-United Arab Emirates
+Qatar-Qatar
+Omán-Oman
+Yemen-Yemen
+Israel-Israel
+Palestina-Palestine
+Jordania-Jordan
+Líbano-Lebanon
+Siria-Syria
+Egipto-Egypt
+Marruecos-Morocco
+Argelia-Algeria
+Túnez-Tunisia
+Libia-Libya
+Sudán-Sudan
+Sudán del Sur-South Sudan
+Etiopía-Ethiopia
+Somalia-Somalia
+Kenia-Kenya
+Tanzania-Tanzania
+Uganda-Uganda
+Ruanda-Rwanda
+Burundi-Burundi
+Malawi-Malawi
+Zambia-Zambia
+Zimbabwe-Zimbabwe
+Mozambique-Mozambique
+Sudáfrica-South Africa
+Namibia-Namibia
+Botswana-Botswana
+Lesotho-Lesotho
+Suazilandia/Eswatini-Eswatini
+Madagascar-Madagascar
+Mauricio-Mauritius
+Seychelles-Seychelles
+India-India
+Pakistán-Pakistan
+Bangladesh-Bangladesh
+Sri Lanka-Sri Lanka
+Nepal-Nepal
+Bután-Bhutan
+Myanmar/Birmania-Myanmar/Burma
+Tailandia-Thailand
+Laos-Laos
+Camboya-Cambodia
+Vietnam-Vietnam
+Malasia-Malaysia
+Singapur-Singapore
+Indonesia-Indonesia
+Filipinas-Philippines
+Japón-Japan
+Corea del Sur-South Korea
+Corea del Norte-North Korea
+China-China
+Taiwán-Taiwan
+Mongolia-Mongolia
+Australia-Australia
+Nueva Zelanda-New Zealand
+Papua Nueva Guinea-Papua New Guinea
+Fiji-Fiji
+Vanuatu-Vanuatu
+Samoa-Samoa
+Tonga-Tonga
+Kiribati-Kiribati
+Micronesia-Micronesia
+Islas Marshall-Marshall Islands
+Palau-Palau
+Canadá-Canada
+Estados Unidos-United States
+México-Mexico
+Guatemala-Guatemala
+Belice-Belize
+Honduras-Honduras
+El Salvador-El Salvador
+Nicaragua-Nicaragua
+Costa Rica-Costa Rica
+Panamá-Panama
+Colombia-Colombia
+Venezuela-Venezuela
+Ecuador-Ecuador
+Perú-Peru
+Bolivia-Bolivia
+Chile-Chile
+Argentina-Argentina
+Uruguay-Uruguay
+Paraguay-Paraguay
+Cuba-Cuba
+República Dominicana-Dominican Republic
+Haití-Haiti
+Bahamas-Bahamas
+Jamaica-Jamaica
+Trinidad y Tobago-Trinidad and Tobago
+Barbados-Barbados
+Antigua y Barbuda-Antigua and Barbuda
+Santa Lucía-Saint Lucia
+San Vicente y las Granadinas-Saint Vincent and the Grenadines
+Granada-Grenada
+Dominica-Dominica
+Angola-Angola
+Benin-Benin
+Burkina Faso-Burkina Faso
+Cabo Verde-Cape Verde
+Camerún-Cameroon
+Chad-Chad
+Comoras-Comoros
+Costa de Marfil-Ivory Coast
+República Democrática del Congo-Democratic Republic of the Congo
+República del Congo-Republic of the Congo
+Djibouti-Djibouti
+Guinea Ecuatorial-Equatorial Guinea
+Eritrea-Eritrea
+Gabón-Gabon
+Gambia-Gambia
+Ghana-Ghana
+Guinea-Guinea
+Guinea-Bissau-Guinea-Bissau
+Liberia-Liberia
+Libia-Libya
+Madagascar-Madagascar
+Malí-Mali
+Mauritania-Mauritania
+Níger-Niger
+Nigeria-Nigeria
+Santo Tomé y Príncipe-São Tomé and Príncipe
+Senegal-Senegal
+Sierra Leona-Sierra Leone
+Somalia-Somalia
+Sudán-Sudan
+Togo-Togo
