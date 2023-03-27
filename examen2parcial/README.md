@@ -4,18 +4,22 @@ grado y grupo: 4C TDISM
 
 El proyecto fue desarollado como examen del segundo parcial de la materia de Aplicaciones Web Orientadas a Servicios.
 
+##
 REALIZADO CON:
 php
 HTML
 CSS
 
+##
 ACERCA DEL PROYECTO
 el proyecto fue elaborado a partir de la siguiente API relacionada al futbol:
 
 https://www.thesportsdb.com/api/v1/json/3/search_all_teams.php?s=Soccer&c=Mexico
 Nota: la API muestra la informacion de los equipos de un pais.
 
+##
 Tareas Realizadas
+
 como primera tarea se realizo la iteracion de la api para mostrar la informacion mas relevante de esta.
 
 se realizo un buscador que concatenara el pais que el usuario ingresara para mostrar la informacion de los equipos
